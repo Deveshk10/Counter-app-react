@@ -1,0 +1,12 @@
+.main {
+  border: 2px solid black;
+  text-align: center;
+  padding: 20px;
+}
+button {
+  margin: 10px;
+  font-size: 20px;
+  padding: 10px;
+  border: 1px solid blue;
+  border-radius: 10px;
+}
